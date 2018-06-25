@@ -1,0 +1,14 @@
+{
+  "name": "custom_grid",
+  "version": "1.0.0",
+  "description": "simple custom grid system without bootstrap",
+  "main": "index.js",
+  "scripts": {
+    "compiler":"node-sass sass/main.scss css/style.css -w"
+  },
+  "author": "mrshoikot",
+  "license": "ISC",
+  "devDependencies": {
+    "node-sass": "^4.9.0"
+  }
+}
